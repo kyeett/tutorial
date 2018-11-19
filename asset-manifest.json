@@ -1,11 +1,11 @@
 {
-  "main.js": "/static/js/main.937c85e9.chunk.js",
-  "main.js.map": "/static/js/main.937c85e9.chunk.js.map",
-  "static/js/1.f68dcc1a.chunk.js": "/static/js/1.f68dcc1a.chunk.js",
-  "static/js/1.f68dcc1a.chunk.js.map": "/static/js/1.f68dcc1a.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.1cd51853dc4680a676d02272fdf7f659.js": "/precache-manifest.1cd51853dc4680a676d02272fdf7f659.js",
-  "service-worker.js": "/service-worker.js"
+  "main.js": "/tutorial/static/js/main.937c85e9.chunk.js",
+  "main.js.map": "/tutorial/static/js/main.937c85e9.chunk.js.map",
+  "static/js/1.f68dcc1a.chunk.js": "/tutorial/static/js/1.f68dcc1a.chunk.js",
+  "static/js/1.f68dcc1a.chunk.js.map": "/tutorial/static/js/1.f68dcc1a.chunk.js.map",
+  "runtime~main.js": "/tutorial/static/js/runtime~main.cd423347.js",
+  "runtime~main.js.map": "/tutorial/static/js/runtime~main.cd423347.js.map",
+  "index.html": "/tutorial/index.html",
+  "precache-manifest.bf242c0ff267226406c2a17d05ee3b3a.js": "/tutorial/precache-manifest.bf242c0ff267226406c2a17d05ee3b3a.js",
+  "service-worker.js": "/tutorial/service-worker.js"
 }
